@@ -36,6 +36,15 @@ dependencies:
   video_player: ^2.7.0
   path_provider: ^2.0.15
 
+fonts:
+  - family: Orbitron
+    fonts:
+      - asset: fonts/Orbitron-Regular.ttf
+      - asset: fonts/Orbitron-Medium.ttf
+        weight: 500
+      - asset: fonts/Orbitron-Bold.ttf
+        weight: 700  
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
